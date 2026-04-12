@@ -1,10 +1,10 @@
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=4287f5&height=200&section=header&text=Amir%20Hossain&fontSize=50&fontColor=000000&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=037ffc&height=200&section=header&text=Amir%20Hossain&fontSize=50&fontColor=fff&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=4287f5&size=20&center=true&vCenter=true&width=500&lines=Hi+there+👋+I+am+Amir+Hossain!;I+am+Laravel+Developer!;Building+Scalable+Web+Application!" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=037ffc&size=20&center=true&vCenter=true&width=500&lines=Hi+there+👋+I+am+Amir+Hossain!;I+am+Laravel+Developer!;Building+Scalable+Web+Application!" />
 </p>
 
 ---
@@ -42,5 +42,5 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=4287f5&size=20&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!;See+you+next+time!" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=037ffc&size=20&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!;See+you+next+time!" />
 </p>
