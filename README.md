@@ -10,7 +10,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Visitors&color=grey&style=flat" alt="visitor badge"/>
+  <img src="https://komarev.com/ghpvc/?username=Amirhosen65&label=Profile%20Visitors&color=grey&style=flat" alt="visitor badge"/>
   
   <a href="https://linkedin.com/in/aj-amir">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
