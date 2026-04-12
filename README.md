@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=4287f5&size=20&center=true&vCenter=true&width=500&lines=Hi-there-👋-I-am-Amir-Hossain!;I-am-Laravel-Developer!" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=4287f5&size=20&center=true&vCenter=true&width=500&lines=Hi+there+👋+I+am+Amir+Hossain!;I+am+Laravel+Developer!;Building+Scalable+Web+Application!" />
 </p>
 
 ---
@@ -21,7 +21,8 @@
 
 ## 🧑‍💻 About Me
 
-- 💼 Backend Developer at **Alpha IT Park**
+- 💼 Founder at **Alpha IT Park**
+- 💼 Backend Developer at **Mowla Mohammad & Co.**
 - 🎓 Student at **Sonargao University**
 - 🚀 Working on **E-commerce & LMS Systems**
 - ⚡ Love building scalable & optimized backend systems
